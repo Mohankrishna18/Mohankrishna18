@@ -8,10 +8,21 @@
 </p>
 
 <p align="center">
-  <a href="https://mohan-krishna-porfolio.netlify.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/">LinkedIn</a> •
-  <a href="mailto:mohankrishnamadanapu@gmail.com">Email</a>
+  <a href="https://mohan-krishna-porfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohankrishnamadanapu@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=2500&color=888888&center=true&vCenter=true&width=400&lines=Open+to+Opportunities;Let's+Connect+🚀" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Microservices+%7C+Cloud+%7C+Performance" />
