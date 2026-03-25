@@ -149,10 +149,27 @@ Property listing and booking system with REST API integration and responsive UI.
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/
-Portfolio: https://mohan-krishna-porfolio.netlify.app/
-Email: [mohankrishnamadanapu@gmail.com](mailto:mohankrishnamadanapu@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Krishna-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://mohan-krishna-porfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox" />
+  </a>
+  <a href="mailto:mohankrishnamadanapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <i>Open to opportunities • Let's build something impactful 🚀</i>
+</p>
+
 
 
