@@ -1,16 +1,147 @@
-## Hi there 👋
+<h1 align="center">Mohan Krishna</h1>
 
-<!--
-**Mohankrishna18/Mohankrishna18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Java Full Stack Engineer • Microservices • Distributed Systems</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://mohan-krishna-porfolio.netlify.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/">LinkedIn</a> •
+  <a href="mailto:mohankrishnamadanapu@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Microservices+%7C+Cloud+%7C+Performance" />
+</p>
+
+---
+
+## 👨‍💻 About
+
+Java Full Stack Developer with **4+ years of experience** building scalable, secure, and production-grade applications.
+
+* Backend: Spring Boot, Microservices, REST APIs
+* Frontend: React, JavaScript (ES6)
+* Cloud: AWS (EC2, S3, RDS), Docker, CI/CD
+* Security: Spring Security, JWT
+
+Focus: **clean architecture, performance, and scalability**
+
+---
+
+## 📊 Proof of Work
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankrishna18&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohankrishna18&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohankrishna18&repo=Problem-Solving-Journal" />
+</p>
+
+<p align="center">
+  <i>Consistency in Java, Streams, and DSA problem solving</i>
+</p>
+
+---
+
+## 🏗️ Architecture Thinking
+
+```text
+Client (React)
+      ↓
+API Layer
+      ↓
+Spring Boot Services
+      ↓
+Database
+      ↓
+Cloud (AWS)
+```
+
+* Modular design
+* Scalable services
+* Maintainable code
+
+---
+
+## 🚀 Selected Work
+
+### COMET
+
+Microservices-based platform with scalable backend services and AWS deployment.
+
+### SMART
+
+Secure authentication system using Spring Security and JWT with role-based access.
+
+### AI Automation
+
+Workflow automation using n8n with reusable and modular integrations.
+
+### HRMS
+
+Enterprise employee management system with secure backend and cloud deployment.
+
+### Property Platform
+
+Property listing and booking system with REST API integration and responsive UI.
+
+---
+
+## 🛠️ Stack
+
+### Backend & Architecture
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+</p>
+
+<p align="center">
+  <i>Building scalable systems with modern technologies</i>
+</p>
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohankrishna18&show_icons=true" />
+</p>
+
+---
+
+## 🎯 Principles
+
+* Build for scale
+* Write clean code
+* Focus on performance
+* Stay consistent
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/
+Portfolio: https://mohan-krishna-porfolio.netlify.app/
+Email: [mohankrishnamadanapu@gmail.com](mailto:mohankrishnamadanapu@gmail.com)
