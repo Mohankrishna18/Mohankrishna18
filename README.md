@@ -130,21 +130,6 @@ Property listing and booking system with REST API integration and responsive UI.
 
 ---
 
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohankrishna18&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Principles
-
-* Build for scale
-* Write clean code
-* Focus on performance
-* Stay consistent
-
 ---
 
 ## 📫 Connect with Me
