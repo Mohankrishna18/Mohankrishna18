@@ -96,7 +96,7 @@ Workflow automation using n8n with reusable and modular integrations.
 
 Enterprise employee management system with secure backend and cloud deployment.
 
-### Property Platform
+### Property
 
 Property listing and booking system with REST API integration and responsive UI.
 
