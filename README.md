@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohan%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Mohan Krishna</h1>
 
 <p align="center">
@@ -32,15 +36,19 @@ Focus: **clean architecture, performance, and scalability**
 ## 📊 Proof of Work
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankrishna18&theme=github-compact&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankrishna18&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohankrishna18&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mohankrishna18&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohankrishna18&repo=Problem-Solving-Journal" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=2500&color=555555&center=true&vCenter=true&width=500&lines=Daily+Coding+Streak+Active;Practicing+Java+%2B+DSA;Consistency+Every+Day" />
 </p>
 
 <p align="center">
