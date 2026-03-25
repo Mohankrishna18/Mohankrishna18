@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohan%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f1f1f,100:434343&height=200&section=header&text=Mohan%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Mohan Krishna</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Microservices+%7C+Cloud+%7C+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Microservices+%7C+Cloud+%7C+Performance" />
 </p>
 
 ---
@@ -32,24 +32,23 @@ Java Full Stack Developer with **4+ years of experience** building scalable, sec
 Focus: **clean architecture, performance, and scalability**
 
 ---
-## 🐍 Contribution
+
+## 📊 Proof of Work
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankrishna18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohankrishna18/MohanKrishna18/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-## 📊 Proof of Work
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankrishna18&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohankrishna18&repo=Problem-Solving-Journal" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohankrishna18&repo=Problem-Solving-Journal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=2500&color=555555&center=true&vCenter=true&width=500&lines=Daily+Coding+Streak+Active;Practicing+Java+%2B+DSA;Consistency+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=2500&color=BBBBBB&center=true&vCenter=true&width=500&lines=Daily+Coding+Streak+Active;Practicing+Java+%2B+DSA;Consistency+Every+Day" />
 </p>
 
 <p align="center">
@@ -96,7 +95,7 @@ Workflow automation using n8n with reusable and modular integrations.
 
 Enterprise employee management system with secure backend and cloud deployment.
 
-### Property
+### Property Platform
 
 Property listing and booking system with REST API integration and responsive UI.
 
@@ -135,7 +134,7 @@ Property listing and booking system with REST API integration and responsive UI.
 ## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohankrishna18&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohankrishna18&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -153,13 +152,13 @@ Property listing and booking system with REST API integration and responsive UI.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Krishna-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mohan-krishna-porfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:mohankrishnamadanapu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -170,6 +169,3 @@ Property listing and booking system with REST API integration and responsive UI.
 <p align="center">
   <i>Open to opportunities • Let's build something impactful 🚀</i>
 </p>
-
-
-
