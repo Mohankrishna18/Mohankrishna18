@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f1f1f,100:434343&height=200&section=header&text=Mohan%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Mohan Krishna</h1>
 
 <p align="center">
   <b>Java Full Stack Engineer • Microservices • Distributed Systems</b>
