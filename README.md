@@ -32,17 +32,18 @@ Java Full Stack Developer with **4+ years of experience** building scalable, sec
 Focus: **clean architecture, performance, and scalability**
 
 ---
+## 🐍 Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohankrishna18/MohanKrishna18/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 📊 Proof of Work
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankrishna18&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohankrishna18&theme=default&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohankrishna18&repo=Problem-Solving-Journal" />
 </p>
@@ -154,9 +155,4 @@ LinkedIn: https://www.linkedin.com/in/mohankrishnamadanapu29546b1b3/
 Portfolio: https://mohan-krishna-porfolio.netlify.app/
 Email: [mohankrishnamadanapu@gmail.com](mailto:mohankrishnamadanapu@gmail.com)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohankrishna18/MohanKrishna18/output/github-contribution-grid-snake.svg" />
-</p>
 
