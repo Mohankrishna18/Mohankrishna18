@@ -54,10 +54,6 @@ Focus: **clean architecture, performance, and scalability**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohankrishna18&repo=Problem-Solving-Journal&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=2500&color=BBBBBB&center=true&vCenter=true&width=500&lines=Daily+Coding+Streak+Active;Practicing+Java+%2B+DSA;Consistency+Every+Day" />
 </p>
 
