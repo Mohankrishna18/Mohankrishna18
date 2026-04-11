@@ -161,5 +161,3 @@ Property listing and booking system with REST API integration and responsive UI.
   <i>Open to opportunities • Let's build something impactful 🚀</i>
 </p>
 
-
-
